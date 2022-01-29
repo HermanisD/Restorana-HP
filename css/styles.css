@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url('/img/organic_sm.jpg') no-repeat;
+  background: url('../img/organic_sm.jpg') no-repeat;
   width: 100px;
   height: 100px;
   margin: 10px 15px 10px 0;
